@@ -1,3 +1,5 @@
+__author__ = 'jslvtr'
+
 
 URL = "https://api.mailgun.net/v3/<>.mailgun.org/messages"
 API_KEY = "key-<>"
